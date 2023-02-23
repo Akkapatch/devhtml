@@ -6,7 +6,7 @@ button.addEventListener("click", myfunction);
 
 //create the function that will be called when the button is pressed
 function myfunction()
-(
+{
     //this shows a popup window
-    alert("button clicked!")
-)
+    alert("button clicked!");
+}
